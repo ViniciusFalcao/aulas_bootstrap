@@ -1,5 +1,5 @@
 .navbar {background-color: rgb(5, 123, 201);}
-#botaonav{border-radius: 10px;border-color: rgb(100, 194, 206);border-width: 4px;}
+#botaonav{border-radius: 10px;border-color:#bdd7fa;border-width: 4px;}
 #inputprocurar{border-radius: 10px;}
 #botaonav:hover{background-color:cornflowerblue;border-color: greenyellow;}
 .nav-link:hover{}
